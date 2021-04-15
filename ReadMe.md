@@ -1,0 +1,3 @@
+# React Quiz application
+## I have implemented the Use of hooks (useState, useContext).
+the App is tyled with just CSS... 
